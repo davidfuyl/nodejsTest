@@ -1,10 +1,10 @@
-## npm list //列出所有安装的npm模块
-## npm -g install module_name
-## npm -v // 查看npm版本
-## npm info jquery / npm info angular // 查看安装的模块的版本信息
-## npm -g install module_name --save // 安装模块并写入到package.json文件中
-## npm uninstall //卸载
-## npm install jquery@1.8.2 //安装指定版本
+npm list //列出所有安装的npm模块
+npm -g install module_name
+npm -v // 查看npm版本
+npm info jquery / npm info angular // 查看安装的模块的版本信息
+npm -g install module_name --save // 安装模块并写入到package.json文件中
+npm uninstall //卸载
+npm install jquery@1.8.2 //安装指定版本
 
 创建package.json
 
